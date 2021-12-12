@@ -1,0 +1,14 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "my first project on node.js",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server"
+  },
+  "author": "Eugeny Kurda: eugenykurda@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
